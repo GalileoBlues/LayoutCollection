@@ -50,7 +50,17 @@ b l d c v  z y o u ,
 n r t s g  p h a e i 
 q x m w j  k f ' ; . 
 ```
+
+### Gallium Angle mod
+
+```
+b l d c j  z y o u ,
+ n r t s v  p h a e i
+  x m w g q  k f ' ; .
+```
+
 ### Ruthenium
+
 ```
 w d l f x  q b u o y
 r t h s g  . n e a i
