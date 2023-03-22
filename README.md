@@ -50,6 +50,12 @@ b l d c v  z y o u ,
 n r t s g  f h a e i 
 q x m w j  k p ' ; . 
 ```
+### Ruthenium
+```
+w d l f x  q b u o y
+r t h s g  . n e a i
+j k m c v  z p ' , ;
+```
 
 ### Ruthenium NL
 
@@ -65,10 +71,17 @@ z k m g v  j p ' ; .
 
 ### Thallium
 
-Thallium is a layout based on Whorf made in mind with the concept of "consonant blocks" inspired by the way that this vowel block has diagonal rolls like `au` and `eo` the idea was to recreate this with consonants such as `th` and `dn`.
+Thallium is a layout based on Semimak made in mind with the concept of "consonant blocks" inspired by the way that this vowel block has diagonal rolls like `au` and `eo` the idea was to recreate this with consonants such as `th` and `dn` but space them out between fingers.
 
 ```
-f d h q z  j p o u , 
-s t n r m  g c a e i 
-v k b l x  w y ' ; .
+f d l h v  z w u o y 
+s t r n m  p c e a i 
+x k ' b q  j g , . /
+```
+
+### Argon
+```
+f r l c b  , k u o y
+s n h d g  j t e a i
+q x m p w  z v ' . ;
 ```
