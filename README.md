@@ -47,8 +47,8 @@ Gallium is a heavily modded version of Helium with the target goal of hand balan
 
 ```
 b l d c v  z y o u , 
-n r t s g  f h a e i 
-q x m w j  k p ' ; . 
+n r t s g  p h a e i 
+q x m w j  k f ' ; . 
 ```
 ### Ruthenium
 ```
